@@ -295,31 +295,33 @@ LittlerootTown_BrendansHouse_1F_Movement_1F7A16: @ 81F7A16
 	step_end
 
 LittlerootTown_BrendansHouse_1F_Text_1F7A1C: @ 81F7A1C
-	.string "MOM: See, {PLAYER}?\n"
-	.string "Isn’t it nice in here, too?$"
+	.string "OFFICER: You are {PLAYER}, right?\n"
+	.string "It’s nice to finally meet you.\l"
+	.string "My name is SABRINA, by the way\p"
+	.string "I will be supervising you$"
 
 LittlerootTown_BrendansHouse_1F_Text_1F7A46: @ 81F7A46
-	.string "The mover’s POKéMON do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
+	.string "The mover’s POKéMON will do all the work\n"
+	.string "of moving you in and cleaning up after.\l"
+	.string "We shouldn’t need anything from you here.\p"
 	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "DAD bought you a new clock to mark\n"
-	.string "our move here.\l"
+	.string "Go get settled.\p"
+	.string "I bought you a new clock to mark\n"
+	.string "your fresh start in life.\l"
 	.string "Don’t forget to set it!$"
 
 LittlerootTown_BrendansHouse_1F_Text_1F7B24: @ 81F7B24
-	.string "MOM: Well, {PLAYER}?\p"
+	.string "SABRINA: Well, {PLAYER}?\p"
 	.string "Aren’t you interested in seeing your\n"
-	.string "very own room?$"
+	.string "room after spending five years in a cell?$"
 
 LittlerootTown_BrendansHouse_1F_Text_1F7B67: @ 81F7B67
 LittlerootTown_MaysHouse_1F_Text_1F7B67: @ 81F7B67
-	.string "MOM: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "SABRINA: {PLAYER}.\p"
+	.string "Go set the clock in your room.$"
 
 LittlerootTown_BrendansHouse_1F_Text_1F7B96: @ 81F7B96
-	.string "MOM: Oh! {PLAYER}, {PLAYER}!\n"
+	.string "SABRINA: Oh! {PLAYER}, {PLAYER}!\n"
 	.string "Quick! Come quickly!$"
 
 LittlerootTown_BrendansHouse_1F_Text_1F7BBC: @ 81F7BBC
